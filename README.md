@@ -176,6 +176,9 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ###  Autorisation de l’accès au public  
 ![image](https://github.com/user-attachments/assets/dc94255d-bf5a-48dd-a3bc-b690d4d9ad6f)
 
+### Ajouter une politique de bucket S3 pour autoriser l'accès public 
+![image](https://github.com/user-attachments/assets/1ea2d481-5939-4bee-a147-03585d53b25c)
+
 ### Installation de la dépendance ZIP
 ![image](https://github.com/user-attachments/assets/11a91f94-5681-44d5-b6d9-dac70cd949c9)
 
