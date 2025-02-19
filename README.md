@@ -22,7 +22,7 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
 
-Cloudinit à mettre dans la création de l'instance EC2 
+__Cloudinit à mettre dans la création de l'instance EC2 __
 ```
 #!/bin/bash  
 sudo apt update -y && sudo apt upgrade -y  
