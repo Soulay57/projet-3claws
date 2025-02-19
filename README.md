@@ -163,6 +163,8 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ![image](https://github.com/user-attachments/assets/f3bffbbd-cf9a-4312-baa5-acdc8ecc0362)
 ![image](https://github.com/user-attachments/assets/679044e0-b3c1-4afe-8160-7c6f8eb7500b)
 ![image](https://github.com/user-attachments/assets/037132f2-0b1e-4254-b4ed-93fd7f493c82)
+![image](https://github.com/user-attachments/assets/92789df9-8e60-4470-ab83-0508fdb61510)
+
 
 
 
