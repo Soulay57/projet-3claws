@@ -220,6 +220,9 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 
 # Partie 6 : Serveur de test
 
+### Création du serveur de test
+
+#### Le fichier .pem a été crée grâce à nano 
 ![image](https://github.com/user-attachments/assets/cbf6036a-5e0a-4f55-a005-5878425087f4)
 ![image](https://github.com/user-attachments/assets/999f539f-8630-448e-8b26-7f7b384f7114)
 
