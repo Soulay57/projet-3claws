@@ -44,10 +44,16 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 
 
-## Création de l'instance EC2
+## Création de l'instance EC2 public et privée
+
+### Public :
 ![image](https://github.com/user-attachments/assets/1575cd57-e7c2-44bc-8091-3cf3b9ff71f3)
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
+
+### Privée :
+![image](https://github.com/user-attachments/assets/fbea78f2-e709-474e-babf-1db41d4c65fe)
+
 
 ### Cloudinit à mettre dans la création de l'instance EC2
 ```
