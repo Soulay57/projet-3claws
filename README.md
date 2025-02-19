@@ -39,6 +39,8 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ### Règles des groupes de sécurité :
 ![image](https://github.com/user-attachments/assets/4ecf50b7-8070-4687-9c09-efb722acf9c3)
 
+## Sous-réseaux : 
+![image](https://github.com/user-attachments/assets/4a433005-3fed-420f-ad9e-54a597e1e185)
 
 
 ## Création de l'instance EC2
