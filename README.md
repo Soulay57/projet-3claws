@@ -38,8 +38,24 @@ cd flask-datta-able
 
 docker build -t flask-datta-able . 
 
-docker run -d -p 5085:5085 --name flask-app flask-datta-able ```
-
+docker run -d -p 5085:5085 --name flask-app flask-datta-able
+```
 ![image](https://github.com/user-attachments/assets/2b41ff51-3f0e-4b95-a8c7-bf4d5ac93e13)
+
+
+
+# Partie 2 : Configuration sur la VM 
+
+### Connexion en SSH sur le VM grâce à la clé généré 
+
+![image](https://github.com/user-attachments/assets/b699835e-d7e0-495b-b906-1919c41530d9)
+![image](https://github.com/user-attachments/assets/c77094ca-8d38-47d6-bba2-5c63c8263507)
+
+
+### Modification du fichier .env pour établir la connexion avec la base de donnée
+
+![image](https://github.com/user-attachments/assets/6e3c4b2b-378d-4651-80ef-6f9e8e325050)
+
+
 
 
