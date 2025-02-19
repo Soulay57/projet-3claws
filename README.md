@@ -25,33 +25,16 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 Cloudinit à mettre dans la création de l'instance EC2 
 `#!/bin/bash  
 
-# Mise à jour du système  
-
 sudo apt update -y && sudo apt upgrade -y  
-
-# Installation des dépendances  
-
 sudo apt install -y docker.io git default-mysql-client  
-
-# Démarrer et activer Docker  
-
 sudo systemctl start docker  
-
 sudo systemctl enable docker  
-
-# Ajouter l'utilisateur ubuntu au groupe Docker pour éviter les problèmes de permissions  
 
 sudo usermod -aG docker ubuntu  
 
-# Cloner le projet depuis GitHub  
-
 git clone https://github.com/app-generator/flask-datta-able.git  
 
-# Naviguer dans le dossier du projet cloné  
-
 cd flask-datta-able  
-
-# Construire et lancer l'application avec Docker Compose 
 
 docker build -t flask-datta-able . 
 
