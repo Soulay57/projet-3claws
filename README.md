@@ -7,17 +7,17 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 
 
-Partie 1 : Configuration sur AWS 
+# Partie 1 : Configuration sur AWS 
 
-Création du VPC : 
+## Création du VPC : 
 ![image](https://github.com/user-attachments/assets/bb9d68e6-f875-49fe-99aa-d2fe516e7272)
 
 
-Création de la base de données : 
+## Création de la base de données : 
 ![image](https://github.com/user-attachments/assets/a15bdc78-1419-4ea7-87b9-795f48ee5b3c)
 
 
-Création de l'instance EC2
+## Création de l'instance EC2
 ![image](https://github.com/user-attachments/assets/1575cd57-e7c2-44bc-8091-3cf3b9ff71f3)
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
