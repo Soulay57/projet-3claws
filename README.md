@@ -131,3 +131,39 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 
 ![image](https://github.com/user-attachments/assets/836dfe09-d5d8-42f3-994b-e5125f593b47)
 
+
+# Partie 5 : Création du bucket S3
+
+### Création du bucket S3
+![image](https://github.com/user-attachments/assets/7ca8a8dd-77e8-4c5c-92bb-464d8bcb1ab3)
+
+### Activation de l’hébergement de site web Statique  
+![image](https://github.com/user-attachments/assets/21abe861-275a-48c7-a724-caf2a812bdd5)
+
+###  Autorisation de l’accès au public  
+![image](https://github.com/user-attachments/assets/dc94255d-bf5a-48dd-a3bc-b690d4d9ad6f)
+
+### Installation de la dépendance ZIP
+![image](https://github.com/user-attachments/assets/11a91f94-5681-44d5-b6d9-dac70cd949c9)
+
+### ZIP de l’application flask-datta-able 
+![image](https://github.com/user-attachments/assets/bee48548-c5fd-4fc1-a463-ff6bfbe4974d)
+
+### Sauvegarde de la base de données en format SQL  
+![image](https://github.com/user-attachments/assets/e9a1fa6f-142e-4ec3-8119-5b5f099fedb6)
+
+### Sauvegarde de l’application et de la base donnée 
+![image](https://github.com/user-attachments/assets/d50328b3-6434-4e84-b479-e3de271603d4)
+
+### Configuration de GIT pour importer notre projet et le télécharger en .zip
+![image](https://github.com/user-attachments/assets/8395fba8-4b79-4c28-ad0f-989c46aa246b)
+![image](https://github.com/user-attachments/assets/cf2c6f18-78d1-481e-8eda-7b381eccfc34)
+![image](https://github.com/user-attachments/assets/0008be3a-6904-4c67-925b-08a02d2ba655)
+![image](https://github.com/user-attachments/assets/49417294-3e50-449e-9464-c573e8dc8ff2)
+
+
+### Envoie du backup de l’application et de la base de donnée vers le bucket S3  
+![image](https://github.com/user-attachments/assets/e4f2e64c-8aae-49d8-9e4e-79a2c9dbcff9)
+
+
+
