@@ -18,12 +18,25 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ### Table de routage private 1:
 ![image](https://github.com/user-attachments/assets/ac9ebd96-60c1-4a54-9738-2e2c0cce8b40)
 
+### NAT : 
+![image](https://github.com/user-attachments/assets/a9f2d50d-480c-4004-b970-214b0d73409f)
+
+### Passerelle internet : 
+![image](https://github.com/user-attachments/assets/f861904f-3ac8-46ea-a26f-8c7c74c0756f)
+
 
 ### Création de la base de données : 
-![image](https://github.com/user-attachments/assets/a15bdc78-1419-4ea7-87b9-795f48ee5b3c)
+![image](https://github.com/user-attachments/assets/6edb3f81-689c-43ac-94d6-d291828c1d6e)
+
+### Groupe de sous-réseaux DB : 
+![image](https://github.com/user-attachments/assets/a52ed422-1cf0-4a26-b223-6207738acf8e)
+
+### Règles des groupes de sécurité :
+
+![image](https://github.com/user-attachments/assets/4ecf50b7-8070-4687-9c09-efb722acf9c3)
 
 
-## Création de l'instance EC2
+### Création de l'instance EC2
 ![image](https://github.com/user-attachments/assets/1575cd57-e7c2-44bc-8091-3cf3b9ff71f3)
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
