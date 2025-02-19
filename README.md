@@ -23,7 +23,7 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
 
 Cloudinit à mettre dans la création de l'instance EC2 
-`#!/bin/bash  
+```#!/bin/bash  
 
 sudo apt update -y && sudo apt upgrade -y  
 sudo apt install -y docker.io git default-mysql-client  
@@ -38,4 +38,4 @@ cd flask-datta-able
 
 docker build -t flask-datta-able . 
 
-docker run -d -p 5085:5085 --name flask-app flask-datta-able `
+docker run -d -p 5085:5085 --name flask-app flask-datta-able ```
