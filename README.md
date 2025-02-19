@@ -1,10 +1,8 @@
-# Rapport : Projet Final AWS 
+# Rapport : Projet Final AWS de BERNARD Jonathan
 
 Date : 19/02/2025 
 
-Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb et FIGAROLI Romain
-
-
+Créé par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb et FIGAROLI Romain
 
 
 # Partie 1 : Configuration sur AWS 
@@ -15,10 +13,10 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ## Sous-réseaux : 
 ![image](https://github.com/user-attachments/assets/4a433005-3fed-420f-ad9e-54a597e1e185)
 
-### Table de routage public:
+### Table de routage publique :
 ![image](https://github.com/user-attachments/assets/72edd5d7-f748-4558-b965-fa61f0009e37)
 
-### Table de routage private 1:
+### Table de routage private 1 :
 ![image](https://github.com/user-attachments/assets/ac9ebd96-60c1-4a54-9738-2e2c0cce8b40)
 
 ### NAT : 
@@ -44,9 +42,9 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 
 
-## Création de l'instance EC2 public et privée
+## Création de l'instance EC2 publique et privée
 
-### Public :
+### Publique :
 ![image](https://github.com/user-attachments/assets/1575cd57-e7c2-44bc-8091-3cf3b9ff71f3)
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
@@ -79,13 +77,13 @@ docker run -d -p 5085:5085 --name flask-app flask-datta-able
 
 # Partie 2 : Configuration sur la VM 
 
-### Connexion en SSH sur le VM grâce à la clé généré 
+### Connexion en SSH sur le VM grâce à la clé générée 
 
 ![image](https://github.com/user-attachments/assets/b699835e-d7e0-495b-b906-1919c41530d9)
 ![image](https://github.com/user-attachments/assets/c77094ca-8d38-47d6-bba2-5c63c8263507)
 
 
-### Modification du fichier .env pour établir la connexion avec la base de donnée
+### Modification du fichier .env pour établir la connexion avec la base de données
 
 ![image](https://github.com/user-attachments/assets/6e3c4b2b-378d-4651-80ef-6f9e8e325050)
 
@@ -121,7 +119,7 @@ source venv/bin/activate
 ```
 ![image](https://github.com/user-attachments/assets/e5d6e57b-1c74-4ddf-95d3-45fdf2b861f4)
 
-### Modifier requirement.txt pour ajouter pymysql :
+### Modifier requirements.txt pour ajouter pymysql :
 ![image](https://github.com/user-attachments/assets/0fb4ca54-209a-4759-b930-3462b92d5361)
 
 Ensuite lancer la commande : 
@@ -129,7 +127,7 @@ Ensuite lancer la commande :
 pip install -r requirements.txt
 ```
 
-### À cause des erreurs d’environnement on a dû installer :  
+### À cause des erreurs d’environnements, on a dû installer :  
 
 ```
 pip install flask-migrate 
@@ -149,7 +147,7 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ![image](https://github.com/user-attachments/assets/1d31abd6-1349-4b59-92a5-24162bd2f23c)
 ![image](https://github.com/user-attachments/assets/2d782320-5e33-4683-a40e-f7b2fdc9e683)
 
-### Connexion à la DB et vérification des tâbles
+### Connexion à la DB et vérification des tables
 
 ![image](https://github.com/user-attachments/assets/db936769-8bb1-4b00-8080-5b6f8f833f5b)
 ![image](https://github.com/user-attachments/assets/8b1713ce-a8a5-4602-ac0b-dfae13062031)
@@ -160,7 +158,7 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 
 ![image](https://github.com/user-attachments/assets/e37c8da1-7b04-4a70-9b20-cf51687dc182)
 
-### Vérification de l'utilisateur crée en amont sur l'interface web
+### Vérification de l'utilisateur créé en amont sur l'interface web
 
 ![image](https://github.com/user-attachments/assets/836dfe09-d5d8-42f3-994b-e5125f593b47)
 
@@ -170,7 +168,7 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ### Création du bucket S3
 ![image](https://github.com/user-attachments/assets/7ca8a8dd-77e8-4c5c-92bb-464d8bcb1ab3)
 
-### Activation de l’hébergement de site web Statique  
+### Activation de l’hébergement de site web statique  
 ![image](https://github.com/user-attachments/assets/21abe861-275a-48c7-a724-caf2a812bdd5)
 
 ###  Autorisation de l’accès au public  
@@ -188,7 +186,7 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ### Sauvegarde de la base de données en format SQL  
 ![image](https://github.com/user-attachments/assets/e9a1fa6f-142e-4ec3-8119-5b5f099fedb6)
 
-### Sauvegarde de l’application et de la base donnée 
+### Sauvegarde de l’application et de la base données
 ![image](https://github.com/user-attachments/assets/d50328b3-6434-4e84-b479-e3de271603d4)
 
 ### Configuration de GIT pour importer notre projet et le télécharger en .zip
@@ -212,9 +210,10 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 
 ### Push les changements 
 ![image](https://github.com/user-attachments/assets/92789df9-8e60-4470-ab83-0508fdb61510)
+# Il faut générer un access token pour avoir la possibilité de push
 ![image](https://github.com/user-attachments/assets/2b5fb217-fc42-4313-8e56-22f9603a7108)
 
-### Envoie du backup de l’application et de la base de donnée vers le bucket S3  
+### Envoie du backup de l’application et de la base de données vers le bucket S3  
 ![image](https://github.com/user-attachments/assets/e4f2e64c-8aae-49d8-9e4e-79a2c9dbcff9)
 
 
@@ -225,7 +224,3 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 #### Le fichier .pem a été crée grâce à nano 
 ![image](https://github.com/user-attachments/assets/cbf6036a-5e0a-4f55-a005-5878425087f4)
 ![image](https://github.com/user-attachments/assets/999f539f-8630-448e-8b26-7f7b384f7114)
-
-
-
-
