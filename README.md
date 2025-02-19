@@ -160,7 +160,7 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 
 ![image](https://github.com/user-attachments/assets/e37c8da1-7b04-4a70-9b20-cf51687dc182)
 
-### Vérification de l'utilisateur crée en amont dans la DB
+### Vérification de l'utilisateur crée en amont sur l'interface web
 
 ![image](https://github.com/user-attachments/assets/836dfe09-d5d8-42f3-994b-e5125f593b47)
 
