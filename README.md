@@ -160,6 +160,11 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ![image](https://github.com/user-attachments/assets/cf2c6f18-78d1-481e-8eda-7b381eccfc34)
 ![image](https://github.com/user-attachments/assets/0008be3a-6904-4c67-925b-08a02d2ba655)
 ![image](https://github.com/user-attachments/assets/49417294-3e50-449e-9464-c573e8dc8ff2)
+![image](https://github.com/user-attachments/assets/f3bffbbd-cf9a-4312-baa5-acdc8ecc0362)
+![image](https://github.com/user-attachments/assets/679044e0-b3c1-4afe-8160-7c6f8eb7500b)
+![image](https://github.com/user-attachments/assets/037132f2-0b1e-4254-b4ed-93fd7f493c82)
+
+
 
 
 ### Envoie du backup de l’application et de la base de donnée vers le bucket S3  
