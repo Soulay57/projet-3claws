@@ -9,11 +9,17 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 # Partie 1 : Configuration sur AWS 
 
-## Création du VPC : 
+### Création du VPC : 
 ![image](https://github.com/user-attachments/assets/bb9d68e6-f875-49fe-99aa-d2fe516e7272)
 
+### Table de routage public:
+![image](https://github.com/user-attachments/assets/72edd5d7-f748-4558-b965-fa61f0009e37)
 
-## Création de la base de données : 
+### Table de routage private 1:
+![image](https://github.com/user-attachments/assets/ac9ebd96-60c1-4a54-9738-2e2c0cce8b40)
+
+
+### Création de la base de données : 
 ![image](https://github.com/user-attachments/assets/a15bdc78-1419-4ea7-87b9-795f48ee5b3c)
 
 
