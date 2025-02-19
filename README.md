@@ -27,6 +27,9 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ### Groupe de sécurité privé : 
 ![image](https://github.com/user-attachments/assets/18cc92cc-b345-4331-b435-16677b12fc91)
 
+### Groupe de sécurité public : 
+![image](https://github.com/user-attachments/assets/839d03ea-30f3-451f-8783-700e04ceb67f)
+
 ## Création de la base de données : 
 ![image](https://github.com/user-attachments/assets/6edb3f81-689c-43ac-94d6-d291828c1d6e)
 
@@ -34,7 +37,6 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ![image](https://github.com/user-attachments/assets/a52ed422-1cf0-4a26-b223-6207738acf8e)
 
 ### Règles des groupes de sécurité :
-
 ![image](https://github.com/user-attachments/assets/4ecf50b7-8070-4687-9c09-efb722acf9c3)
 
 
