@@ -22,7 +22,7 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
 
-Cloudinit à mettre dans la création de l'instance EC2
+### Cloudinit à mettre dans la création de l'instance EC2
 ```
 #!/bin/bash  
 sudo apt update -y && sudo apt upgrade -y  
@@ -57,5 +57,18 @@ docker run -d -p 5085:5085 --name flask-app flask-datta-able
 ![image](https://github.com/user-attachments/assets/6e3c4b2b-378d-4651-80ef-6f9e8e325050)
 
 
+### Pull de l'image grâce à la commande : 
+```docker-compose up -d```
+![image](https://github.com/user-attachments/assets/b81c0db5-29b9-4e83-8417-123cbc8133c9)
 
+
+### Vérification de l'image grâce à la commande : 
+```docker ps```
+
+![image](https://github.com/user-attachments/assets/86041d11-767d-4f91-9d17-7a78d96cf3ac)
+
+### Vérification de l'accès à l'application grâce à la commande curl et avec l'interface web
+
+![commane curl](https://github.com/user-attachments/assets/79170b9d-bafa-4c87-8692-f758134c8b7c)
+![interface web](https://github.com/user-attachments/assets/9e2fd872-b2c8-4248-a1f6-b8b648bc3063)
 
