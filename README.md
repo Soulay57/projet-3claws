@@ -178,12 +178,15 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ![image](https://github.com/user-attachments/assets/92789df9-8e60-4470-ab83-0508fdb61510)
 ![image](https://github.com/user-attachments/assets/2b5fb217-fc42-4313-8e56-22f9603a7108)
 
-
-
-
-
 ### Envoie du backup de l’application et de la base de donnée vers le bucket S3  
 ![image](https://github.com/user-attachments/assets/e4f2e64c-8aae-49d8-9e4e-79a2c9dbcff9)
+
+
+# Partie 6 : Serveur de test
+
+![image](https://github.com/user-attachments/assets/cbf6036a-5e0a-4f55-a005-5878425087f4)
+![image](https://github.com/user-attachments/assets/999f539f-8630-448e-8b26-7f7b384f7114)
+
 
 
 
