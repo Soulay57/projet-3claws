@@ -158,12 +158,25 @@ nous  avons eu des erreurs car la python3-distutils n’était pas reconnu
 ### Configuration de GIT pour importer notre projet et le télécharger en .zip
 ![image](https://github.com/user-attachments/assets/8395fba8-4b79-4c28-ad0f-989c46aa246b)
 ![image](https://github.com/user-attachments/assets/cf2c6f18-78d1-481e-8eda-7b381eccfc34)
+
+### Ajouter l'URL du dépôt distant :  
 ![image](https://github.com/user-attachments/assets/0008be3a-6904-4c67-925b-08a02d2ba655)
+
+### Initialiser le dépôt :  
 ![image](https://github.com/user-attachments/assets/49417294-3e50-449e-9464-c573e8dc8ff2)
+
+### Ajouter les fichiers modifiés : 
 ![image](https://github.com/user-attachments/assets/f3bffbbd-cf9a-4312-baa5-acdc8ecc0362)
+
+### Créer un commit :  
 ![image](https://github.com/user-attachments/assets/679044e0-b3c1-4afe-8160-7c6f8eb7500b)
+
+### Mettre branch main en principal :  
 ![image](https://github.com/user-attachments/assets/037132f2-0b1e-4254-b4ed-93fd7f493c82)
+
+### Push les changements 
 ![image](https://github.com/user-attachments/assets/92789df9-8e60-4470-ab83-0508fdb61510)
+![image](https://github.com/user-attachments/assets/2b5fb217-fc42-4313-8e56-22f9603a7108)
 
 
 
