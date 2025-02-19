@@ -72,3 +72,62 @@ docker run -d -p 5085:5085 --name flask-app flask-datta-able
 ![commane curl](https://github.com/user-attachments/assets/79170b9d-bafa-4c87-8692-f758134c8b7c)
 ![interface web](https://github.com/user-attachments/assets/9e2fd872-b2c8-4248-a1f6-b8b648bc3063)
 
+# Partie 3 : Modification du virtual env pour connecter la DB et l'application
+
+### Mettre à jour le config.py ;:
+
+![image](https://github.com/user-attachments/assets/c6b27351-513f-489f-9d3e-7299c8649111)
+
+### Création et activation d'un environnement virtuel Python : 
+
+```
+bash 
+CopierModifier 
+python3 -m venv venv 
+source venv/bin/activate 
+```
+![image](https://github.com/user-attachments/assets/e5d6e57b-1c74-4ddf-95d3-45fdf2b861f4)
+
+### Modifier requirement.txt pour ajouter pymysql :
+![image](https://github.com/user-attachments/assets/0fb4ca54-209a-4759-b930-3462b92d5361)
+
+Ensuite lancer la commande : 
+```
+pip install -r requirements.txt
+```
+
+### À cause des erreurs d’environnement on a dû installer :  
+
+```
+pip install flask-migrate 
+```
+
+### Mettre à jour pip, setuptools et wheel  
+
+Cette commande : 
+```pip install --upgrade pip setuptools wheel ``` 
+
+remplace : python3-distutils qui est requit pour la migration 
+
+nous  avons eu des erreurs car la python3-distutils n’était pas reconnu 
+
+### Connexion de la DB et l'application
+![image](https://github.com/user-attachments/assets/c5f2bbf7-c815-41f8-b087-4fa1ffce2335)
+![image](https://github.com/user-attachments/assets/1d31abd6-1349-4b59-92a5-24162bd2f23c)
+![image](https://github.com/user-attachments/assets/2d782320-5e33-4683-a40e-f7b2fdc9e683)
+
+### Connexion à la DB et vérification des tâbles
+
+![image](https://github.com/user-attachments/assets/db936769-8bb1-4b00-8080-5b6f8f833f5b)
+![image](https://github.com/user-attachments/assets/8b1713ce-a8a5-4602-ac0b-dfae13062031)
+
+# Partie 4 : Test de la connexion entre la DB et l'application
+
+### Création d'un compte utilisateur sur l'interface web 
+
+![image](https://github.com/user-attachments/assets/e37c8da1-7b04-4a70-9b20-cf51687dc182)
+
+### Vérification de l'utilisateur crée en amont dans la DB
+
+![image](https://github.com/user-attachments/assets/836dfe09-d5d8-42f3-994b-e5125f593b47)
+
