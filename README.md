@@ -9,7 +9,7 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 # Partie 1 : Configuration sur AWS 
 
-### Création du VPC : 
+## Création du VPC : 
 ![image](https://github.com/user-attachments/assets/bb9d68e6-f875-49fe-99aa-d2fe516e7272)
 
 ### Table de routage public:
@@ -25,7 +25,7 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 ![image](https://github.com/user-attachments/assets/f861904f-3ac8-46ea-a26f-8c7c74c0756f)
 
 
-### Création de la base de données : 
+## Création de la base de données : 
 ![image](https://github.com/user-attachments/assets/6edb3f81-689c-43ac-94d6-d291828c1d6e)
 
 ### Groupe de sous-réseaux DB : 
@@ -35,8 +35,11 @@ Crée par : KADI Soulaymane, HOMBOURGER Tomy, BERNARD Jonathan, AHMADI Rateb e
 
 ![image](https://github.com/user-attachments/assets/4ecf50b7-8070-4687-9c09-efb722acf9c3)
 
+### Groupe de sécurité privé : 
+![image](https://github.com/user-attachments/assets/18cc92cc-b345-4331-b435-16677b12fc91)
 
-### Création de l'instance EC2
+
+## Création de l'instance EC2
 ![image](https://github.com/user-attachments/assets/1575cd57-e7c2-44bc-8091-3cf3b9ff71f3)
 ![image](https://github.com/user-attachments/assets/0db8aea7-2b88-4124-957d-2d2b105d7dbf)
 ![image](https://github.com/user-attachments/assets/0d024bc8-1a18-49bc-95aa-f5f04ed6b9bd)
